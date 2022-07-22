@@ -9,3 +9,6 @@ add_executable(p3 process_api/p3.c)
 add_executable(p4 process_api/p4.c)
 add_executable(p5 process_api/p5.c)
 add_executable(m1 memory/memory-user.c)
+add_executable(n1 memory/null.c)
+add_executable(malloc memory/malloc.c)
+
